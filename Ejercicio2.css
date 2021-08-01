@@ -1,0 +1,12 @@
+p{
+    border-top:green 10px dotted;
+    border-right: blue 20px solid;
+    border-bottom: #A52A2A 10px double;
+    border-left:#2F4F4F 30px groove;
+}
+h1{
+    border-top:#B22222 30px inset;
+    border-right: #DAA520 22px solid;
+    border-bottom: #4B0082 10px double;
+    border-left: #808000 17px dotted;
+}

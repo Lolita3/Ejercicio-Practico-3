@@ -1,0 +1,18 @@
+*{font-family: arial;}
+
+div {border-style: solid; border-width:2px; margin:7px; padding:7px;border-color:gray;}
+li{
+    list-style: none; 
+    text-align:center;
+}
+.limpiador{padding:0; border-style: none;}
+
+#caja1{text-align: center; background-color: #DEB887; list-style: none;border-color:gray;}
+#caja2{ text-align: center; border-color:gray; background-color:#ADD8E6; width:75px; float:left; height:200px;}
+
+   #caja3{ margin:0 7px 7px 0px; border-color:gray;
+    width:278px; float: left; height: 300px;}
+   #caja4{border-color:gray; clear:both; height: 100px; display: inline-block;}
+   #caja5{border-color:gray; }
+   #caja6{border-color:gray; width: 700px;  margin: 10px;}
+   #caja7{border-color:gray; float: right; }

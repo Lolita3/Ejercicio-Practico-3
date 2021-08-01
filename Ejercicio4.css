@@ -1,0 +1,45 @@
+    li{
+        background-color: purple;
+        width: 400px;
+        height: 400px;
+        margin: 40px;
+        padding:40px;
+        border-width:5px;  
+        border-style:groove;
+    background: url(https://cdn.pixabay.com/photo/2021/05/25/12/10/beach-6282284_960_720.jpg);}
+    
+    #Segundo{
+        width: 400px;
+        height: 400px;
+        margin: 40px;
+        padding:40px;
+        background-color: thistle;
+        background-position: 400px;
+        border-width:5px;  
+        border-style:groove;
+        background: url(https://cdn.pixabay.com/photo/2021/07/20/20/25/fly-6481669_960_720.jpg);
+
+    }
+
+    #Tercero{
+        width: 400px;
+        height: 400px;
+        margin: 40px;
+        padding:40px;
+        background-color: turquoise;
+        border-width:5px;  
+        border-style:groove;
+        background: url(https://cdn.pixabay.com/photo/2012/12/13/18/50/frog-69813_960_720.jpg);
+
+    }
+    #Cuarto{
+        width: 400px;
+        height: 400px;
+        margin: 40px;
+        padding:40px;
+        background-color:palevioletred;
+        border-width:5px;  
+        border-style:groove;
+        background: url(https://cdn.pixabay.com/photo/2016/12/06/01/26/colour-1885352_960_720.jpg);
+
+    }
